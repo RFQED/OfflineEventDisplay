@@ -10,7 +10,7 @@ loops over data file, uses matplotlib to plot the straw hits and calo hits per e
 ## strawCaloData.txt 
 holds the events saved out. held in the format .......
 
-
+```
 Run 1863, SubRun 9, Event 305, Island 47, Time 106409, Calo 0
 524.725, 184.063
 7.5, 102.442
@@ -81,9 +81,10 @@ Run 1863, SubRun 9, Event 305, Island 75, Time 695780, Calo 0
 813.603, 247.184
 261.217, 165.124
 END
-
+```
 with a calo hit the format is .....
 
+```
 Run 1863, SubRun 13, Event 29, Island 80, Time 36276.4
 679.261,242.82
 793.407,255.932
@@ -118,7 +119,7 @@ Run 1863, SubRun 13, Event 29, Island 80, Time 36276.4
 550.117,226.754
 953.129,276.172
 CALO hitTime 37475.2, energy 220.358, XposOnFace 277.5
-
+```
 
 # TODO 
 make caloPosition.py holding the calo position to plot this on the graph too. currently just the hits are plotted. 
