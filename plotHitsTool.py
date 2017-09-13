@@ -1,8 +1,5 @@
 from matplotlib import pyplot as plt
 from strawPositions import Ux, Uy, Vx, Vy
-import matplotlib
-import csv
-
 from pylab import figure, axes, title, savefig
 
 xhit, yhit = [], []
