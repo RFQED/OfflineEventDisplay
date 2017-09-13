@@ -125,3 +125,4 @@ CALO hitTime 37475.2, energy 220.358, XposOnFace 277.5
 * make caloPosition.py holding the calo position to plot this on the graph too. currently just the hits are plotted. 
 * make it so can pass in path to datafile
 * make it so can decide which format to output to. svg, pdf, png
+* put the calo hit info in the title also not just filename 
